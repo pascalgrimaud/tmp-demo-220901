@@ -1,0 +1,11 @@
+id;title;description;due_date;date;status;type;priority
+1;out-of-the-box Grocery SMTP;bus;2022-08-31;2022-08-31T13:38:03;IN_PROGRESS;FEATURE;HIGH
+2;Afghanistan Utah Quality;Licensed;2022-08-31;2022-08-31T01:00:40;WONT_IMPLEMENT;FEATURE;LOW
+3;executive;Connecticut modular;2022-08-30;2022-08-31T06:46:43;OPEN;BUG;LOWER
+4;B2C Legacy;Lane Chair Music;2022-08-31;2022-08-31T11:30:40;DUPLICATE;BUG;LOW
+5;enable Incredible;Outdoors Fantastic Crest;2022-08-31;2022-08-30T23:44:48;OPEN;FEATURE;NORMAL
+6;deposit Cotton Compatible;matrix Balanced Small;2022-08-30;2022-08-30T18:45:02;OPEN;FEATURE;LOW
+7;Bike;generate systems Dollar;2022-08-31;2022-08-31T09:47:42;CLOSED;FEATURE;LOWER
+8;Innovative utilize Kids;networks Customer;2022-08-31;2022-08-31T10:31:00;DUPLICATE;BUG;LOWEST
+9;Rustic attitude-oriented;Data Beauty;2022-08-31;2022-08-31T12:45:02;VERIFIED;FEATURE;HIGHER
+10;neural Licensed Refined;payment Steel Human;2022-08-31;2022-08-30T18:25:00;WAITING_FOR_RESPONSE;BUG;HIGH

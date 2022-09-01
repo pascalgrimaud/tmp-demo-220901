@@ -1,0 +1,9 @@
+{
+  "demoApp": {
+    "Type": {
+      "null": "",
+      "BUG": "Bug",
+      "FEATURE": "Feature"
+    }
+  }
+}
